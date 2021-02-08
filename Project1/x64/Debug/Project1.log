@@ -1,0 +1,14 @@
+﻿  Actor.cpp
+C:\Users\akhil\Documents\Galactic-master\Galactic-master\RPG Galactic\RPG Homework2\Project1\Actor.cpp(35,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Ai.cpp
+C:\Users\akhil\Documents\Galactic-master\Galactic-master\RPG Galactic\RPG Homework2\Project1\Ai.cpp(72,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Attacker.cpp
+  Container.cpp
+  Destructible.cpp
+  Engine.cpp
+  Gui.cpp
+  main.cpp
+  Map.cpp
+  Pickable.cpp
+  Generating Code...
+libtcod-VS.lib(libtcod-VS.dll) : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'

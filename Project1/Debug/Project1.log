@@ -1,0 +1,14 @@
+﻿  Actor.cpp
+C:\Users\akhil\Documents\Galactic-master\Galactic-master\RPG Galactic\RPG Homework2\Project1\Actor.cpp(35,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Ai.cpp
+C:\Users\akhil\Documents\Galactic-master\Galactic-master\RPG Galactic\RPG Homework2\Project1\Ai.cpp(72,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Attacker.cpp
+  Container.cpp
+  Destructible.cpp
+  Engine.cpp
+  Gui.cpp
+  main.cpp
+  Map.cpp
+  Pickable.cpp
+  Generating Code...
+  Project1.vcxproj -> C:\Users\akhil\Documents\Galactic-master\Galactic-master\RPG Galactic\RPG Homework2\Debug\Project1.exe
